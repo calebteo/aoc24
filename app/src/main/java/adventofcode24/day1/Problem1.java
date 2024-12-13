@@ -57,7 +57,7 @@ public class Problem1 {
     }
 
     public void readFile() {
-        File inputFile = new File("/Users/calebcheehongteo/code/adventOfCode24/app/src/main/java/adventofcode24/day1/input.tsv");
+        File inputFile = new File("/Users/calebcheehongteo/code/adventOfCode24/app/src/main/java/adventofcode24/day1/input.txt");
         try (BufferedReader TSVReader = new BufferedReader(new FileReader(inputFile))){
             String line;
             while ((line = TSVReader.readLine()) != null) {
