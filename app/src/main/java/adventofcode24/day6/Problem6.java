@@ -350,14 +350,6 @@ public class Problem6{
 }
 
 /*
-Part 2 
- Man's Position: 74, 92
- Man's facing: ^
- Man's count: 5129
- The possible loop count is:431 (TOO LOW)
-*/ 
-
-/*
  Code to check next proceeding Square after hitting object
 String proceedingRotation = "";
 Integer[] proceedingDirection = new Integer[2];

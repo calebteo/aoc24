@@ -210,26 +210,4 @@ public class Problem8 {
             System.out.println("");
         }
     }
-    /*
-        ............
-        ...#....0...
-        ....#0......
-        .......0....
-        ....0....#..
-        ......A.....
-        ............
-        .......#....
-        ........A...
-        .........A..
-        ..........#.
-        ..........#.
-
-        Answer: 300 (too high)
-        Answer: 283 (too low)
-        Answer: 289 (too low)
-
-        Part 2
-        Answer: 807: (too low)
-        Answer: 1032 (Right Answer)
-    */
 }

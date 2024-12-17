@@ -334,12 +334,3 @@ public class Problem7 {
         return key;
     }
 } 
-
-/*
-    Answer for sum of correct lines = 663 613 325 064 (TooLow)
-
-    Answer Part 1: 636211973358 (without the short circuit of over the value)
-    Answer Part 1: 663613490587 (Right)
-    Answer Part 2: 848109496206 (too low)
-    Answer Part 2: 936292510338 (too low)
-*/
