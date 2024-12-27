@@ -34,7 +34,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'adventofcode24.day10.Problem10'
+    mainClass = 'adventofcode24.day11.Problem11'
 }
 
 tasks.named('test') {
